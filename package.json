@@ -1,9 +1,9 @@
 {
-  "name": "new",
+  "name": "react-gsap-router-animation",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
+  "homepage": "/",
   "main": "src/index.js",
   "dependencies": {
     "gsap": "1.20.4",
